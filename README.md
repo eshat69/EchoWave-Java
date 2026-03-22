@@ -43,13 +43,13 @@ EchoWave-Java/
 └── README.md
 # ⚙️ Requirements & Setup
 Java JDK: Ensure you have JDK 11 or higher installed.
-Audio Format: This player specifically supports <img width="393" height="280" alt="Screenshot 2026-03-23 014141" src="https://github.com/user-attachments/assets/97733187-e67a-44d9-833c-68b625cf8109" />
+Audio Format: This player specifically supports 
 .wav files. Ensure your files are located in the src/ folder as defined in the playlist array.
 
 
+<img width="393" height="280" alt="Screenshot 2026-03-23 014141" src="https://github.com/user-attachments/assets/97733187-e67a-44d9-833c-68b625cf8109" />
 
 
-![Uploading Screenshot 2026-03-23 014141.png…]()
 
 
 
