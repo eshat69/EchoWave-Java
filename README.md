@@ -1,13 +1,16 @@
-Nice work! Seeing that "forced update" message and the "branch set up to track" in your terminal means you are officially live on GitHub.
-
-Since your code uses the javax.sound.sampled library and has a specific set of controls, a good README will help others (or your future self) understand how to run it.
-
-Here is a professional README.md drafted specifically for EchoWave-Java.
-
-EchoWave-Java 🎵
+# EchoWave-Java 🎵
+---
 A lightweight, console-based music player built with Java. This application allows you to play, control, and manage a playlist of .wav audio files directly from your terminal.
+![GitHub repo size](https://img.shields.io/github/repo-size/eshat69/TaskLoomX)
+![GitHub language](https://img.shields.io/github/languages/top/eshat69/TaskLoomX)
+![Tkinter](https://img.shields.io/badge/Tkinter-GUI-brightgreen?style=flat-square)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
+![Version](https://img.shields.io/badge/Version-1.0.0-orange?style=flat-square)
+![Issues](https://img.shields.io/github/issues/yourusername/TaskLoomX?style=flat-square)
+---
 
-🚀 Features
+
+#🚀 Features
 Playlist Support: Automatically cycles through a predefined list of songs.
 
 Playback Control: Play, stop, and reset functionality.
@@ -18,7 +21,7 @@ Navigation: Skip to the next track or jump back to the previous one.
 
 Looping Logic: Uses modulo arithmetic to ensure the playlist never "ends"—it just loops back to the start.
 
-🛠️ Controls
+# 🛠️ Controls
 Once the application is running, use the following keys to control your music:
 
 Key	Action
@@ -30,7 +33,7 @@ b	Previous music in the playlist
 +	Volume Up
 -	Volume Down
 q	Quit the application
-📂 Project Structure
+# 📂 Project Structure
 Plaintext
 EchoWave-Java/
 ├── src/
