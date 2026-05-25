@@ -1,6 +1,7 @@
 # EchoWave-Java 🎵
 ---
 A lightweight, console-based music player built with Java. This application allows you to play, control, and manage a playlist of .wav audio files directly from your terminal.
+---
 ![GitHub repo size](https://img.shields.io/github/repo-size/eshat69/EchoWave-Java)
 ![GitHub language](https://img.shields.io/github/languages/top/eshat69/EchoWave-Java)
 ![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
